@@ -1,18 +1,18 @@
-# Halo, saya Driz!
+# Hello, I'm Driz!
 
-Nama asli saya David Rizqi, tapi saya lebih suka dipanggil Driz. Saya seorang Red team dan exploit developer yang berfokus pada web terutama akan Back-End. Saya ingin kerentanan yang saya temukan bisa membuat dunia menjadi lebih aman. Dan alat eksploit yang saya buat bisa meningkatkan kecerdasan dan strategi semua orang.
+My real name is David Rizqi, but I prefer to be called Driz. I am a Red Team and exploit developer focusing on web, especially Back-End. I want the vulnerabilities I find to make the world a safer place. And the exploit tools I create can enhance everyone's intelligence and strategy.
 
-## Keahlian
-- 🛡️ Keamanan Siber
-- 💻 Pemrograman Python, Bash, PHP, HTML, CSS, JS
-- 🔍 Pengujian Penetrasi Jaringan & Web
+## Skills
+- 🛡️ Cybersecurity
+- 💻 Programming in Python, Bash, PHP, HTML, CSS, JS
+- 🔍 Network & Web Penetration Testing
 - 🛠️ Exploit Developer
 - 🐞 Bug Hunter
 
 ## Blog
-- [Driz-Xploit Blog](https://drizxploit.blogspot.com/): Blog Utama.
+- [Driz-Xploit Blog](https://drizxploit.blogspot.com/): Main Blog.
 
-## Kontak
+## Contact
 - [LinkedIn](https://www.linkedin.com/in/driz-xploit)
 - [Facebook](https://www.facebook.com/driz-xploit)
 
