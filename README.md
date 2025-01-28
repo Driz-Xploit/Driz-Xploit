@@ -1,16 +1,17 @@
-## Hi there 👋
+# Halo, saya Driz!
 
-<!--
-**Driz-Xploit/Driz-Xploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang mahasiswa Teknik Komputer di [nama universitas Anda]. Saya sangat tertarik dengan keamanan siber dan selalu bersemangat untuk belajar hal-hal baru di bidang ini!
 
-Here are some ideas to get you started:
+## Keahlian
+- Keamanan Siber
+- Pemrograman Python, Bash, PHP, HTML, CSS, JS.
+- Pengujian Penetrasi Jaringan & Web
+- Exploit Developer
+- Bug Hunter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Blog
+- [Proyek 1](https://github.com/Driz-Xploit/proyek1): Driz-Xploit Blog.
+
+## Kontak
+- [LinkedIn]([https://www.linkedin.com/in/driz-xploit](https://www.linkedin.com/in/driz-x-161a67337/))
+- [Facebook]([https://twitter.com/driz_xploit](https://www.facebook.com/profile.php?id=61572477932386))
