@@ -1,6 +1,6 @@
 # Halo, saya Driz!
 
-Saya seorang mahasiswa Teknik Komputer di [nama universitas Anda]. Saya sangat tertarik dengan keamanan siber dan selalu bersemangat untuk belajar hal-hal baru di bidang ini!
+Saya seorang Exploit Developer. Saya sangat tertarik dengan keamanan siber juga eksploitasi otomatis.
 
 ## Keahlian
 - Keamanan Siber
@@ -10,7 +10,7 @@ Saya seorang mahasiswa Teknik Komputer di [nama universitas Anda]. Saya sangat t
 - Bug Hunter
 
 ## Blog
-- [Utama](https://github.com/Driz-Xploit/proyek1): Driz-Xploit Blog.
+- [Driz-Xploit Blog](https://github.com/Driz-Xploit/proyek1): Blog Utama.
 
 ## Kontak
 - [LinkedIn](https://www.linkedin.com/in/driz-x-161a67337/)
