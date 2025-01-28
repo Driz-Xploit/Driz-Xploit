@@ -13,5 +13,5 @@ Saya seorang mahasiswa Teknik Komputer di [nama universitas Anda]. Saya sangat t
 - [Utama](https://github.com/Driz-Xploit/proyek1): Driz-Xploit Blog.
 
 ## Kontak
-- [LinkedIn]([https://www.linkedin.com/in/driz-xploit](https://www.linkedin.com/in/driz-x-161a67337/))
-- [Facebook]([https://twitter.com/driz_xploit](https://www.facebook.com/profile.php?id=61572477932386))
+- [LinkedIn](https://www.linkedin.com/in/driz-x-161a67337/)
+- [Facebook](https://www.facebook.com/profile.php?id=61572477932386)
