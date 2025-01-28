@@ -10,7 +10,7 @@ Saya seorang mahasiswa Teknik Komputer di [nama universitas Anda]. Saya sangat t
 - Bug Hunter
 
 ## Blog
-- [Proyek 1](https://github.com/Driz-Xploit/proyek1): Driz-Xploit Blog.
+- [Utama](https://github.com/Driz-Xploit/proyek1): Driz-Xploit Blog.
 
 ## Kontak
 - [LinkedIn]([https://www.linkedin.com/in/driz-xploit](https://www.linkedin.com/in/driz-x-161a67337/))
