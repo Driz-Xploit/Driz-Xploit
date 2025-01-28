@@ -15,4 +15,5 @@ My real name is David Rizqi, but I prefer to be called Driz. I am a Red Team and
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/driz-xploit)
 - [Facebook](https://www.facebook.com/driz-xploit)
+- [Gmail](https://drizdmn@gmail.com)
 
