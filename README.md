@@ -14,6 +14,5 @@ My real name is David, but I prefer to be called Driz. I am a Red Team and explo
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/driz-x-161a67337/)
-- [Facebook](https://www.facebook.com/profile.php?id=61572477932386)
 - [Gmail](mailto:drizdmn@gmail.com)
 
