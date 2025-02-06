@@ -1,6 +1,6 @@
 # Hello, I'm Driz!
 
-My real name is David Rizqi, but I prefer to be called Driz. I am a Red Team and exploit developer focusing on web, especially Back-End. I want the vulnerabilities I find to make the world a safer place. And the exploit tools I create can enhance everyone's intelligence and strategy.
+My real name is David, but I prefer to be called Driz. I am a Red Team and exploit developer focusing on web, especially Back-End. I want the vulnerabilities I find to make the world a safer place. And the exploit tools I create can enhance everyone's intelligence and strategy.
 
 ## Skills
 - 🛡️ Cybersecurity
