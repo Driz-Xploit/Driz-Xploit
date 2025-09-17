@@ -14,10 +14,18 @@ My real name is David, but I prefer to be called Driz. I am a Red Team and explo
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/driz-x-161a67337/)
-- [Gmail](mailto:drizdmn@gmail.com) <br/><br/><br/>
-![](https://www.codewars.com/users/Shou%20Driz/badges/large)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Driz-Xploit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Driz-Xploit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Driz-Xploit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- [Gmail](mailto:drizdmn@gmail.com) <br/><br/>
 
-![](https://github-profile-trophy.vercel.app/?username=Driz-Xploit&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<details>
+<summary>Stat Level</summary>
+<br/><br/>
+<img src='https://www.codewars.com/users/Shou%20Driz/badges/large'>
+<br/>
+<img src='https://github-readme-stats.vercel.app/api?username=Driz-Xploit&theme=dark&hide_border=false&include_all_commits=false&count_private=false'>
+<br/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Driz-Xploit&theme=dark&hide_border=false'>
+<br/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Driz-Xploit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'>
+<br/>
+<img src='https://github-profile-trophy.vercel.app/?username=Driz-Xploit&theme=dark&no-frame=false&no-bg=true&margin-w=4'>
+</details>
