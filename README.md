@@ -27,5 +27,5 @@ My real name is David, but I prefer to be called Driz. I am a Red Team and explo
 <br/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Driz-Xploit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'>
 <br/>
-<img src='https://github-profile-trophy.vercel.app/?username=Driz-Xploit&theme=dark&no-frame=false&no-bg=true&margin-w=4'>
+<!-- <img src='https://github-profile-trophy.vercel.app/?username=Driz-Xploit&theme=dark&no-frame=false&no-bg=true&margin-w=4'> -->
 </details>
